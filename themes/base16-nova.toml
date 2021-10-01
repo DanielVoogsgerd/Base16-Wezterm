@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Nova scheme by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+[colors]
+foreground = "#C5D4DD"
+background = "#3C4C55"
+
+cursor_bg = "#C5D4DD"
+cursor_border = "#C5D4DD"
+cursor_fg = "#3C4C55"
+
+# selection_bg = "#3C4C55"
+# selection_fg = "#3C4C55"
+
+ansi = ["#3C4C55", "#83AFE5", "#7FC1CA", "#A8CE93", "#83AFE5", "#9A93E1", "#F2C38F", "#C5D4DD"]
+brights = ["#899BA6", "#7FC1CA", "#556873", "#6A7D89", "#899BA6", "#899BA6", "#F2C38F", "#556873"]
+

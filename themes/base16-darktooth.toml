@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Darktooth scheme by Jason Milkins (https://github.com/jasonm23)
+
+[colors]
+foreground = "#A89984"
+background = "#1D2021"
+
+cursor_bg = "#A89984"
+cursor_border = "#A89984"
+cursor_fg = "#1D2021"
+
+# selection_bg = "#1D2021"
+# selection_fg = "#1D2021"
+
+ansi = ["#1D2021", "#FB543F", "#95C085", "#FAC03B", "#0D6678", "#8F4673", "#8BA59B", "#A89984"]
+brights = ["#665C54", "#FE8625", "#32302F", "#504945", "#928374", "#D5C4A1", "#A87322", "#FDF4C1"]
+

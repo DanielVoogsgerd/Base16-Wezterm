@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Zenburn scheme by elnawe
+
+[colors]
+foreground = "#dcdccc"
+background = "#383838"
+
+cursor_bg = "#dcdccc"
+cursor_border = "#dcdccc"
+cursor_fg = "#383838"
+
+# selection_bg = "#383838"
+# selection_fg = "#383838"
+
+ansi = ["#383838", "#dca3a3", "#5f7f5f", "#e0cf9f", "#7cb8bb", "#dc8cc3", "#93e0e3", "#dcdccc"]
+brights = ["#6f6f6f", "#dfaf8f", "#404040", "#606060", "#808080", "#c0c0c0", "#000000", "#ffffff"]
+

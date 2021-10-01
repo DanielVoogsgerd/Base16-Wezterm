@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Twilight scheme by David Hart (https://github.com/hartbit)
+
+[colors]
+foreground = "#a7a7a7"
+background = "#1e1e1e"
+
+cursor_bg = "#a7a7a7"
+cursor_border = "#a7a7a7"
+cursor_fg = "#1e1e1e"
+
+# selection_bg = "#1e1e1e"
+# selection_fg = "#1e1e1e"
+
+ansi = ["#1e1e1e", "#cf6a4c", "#8f9d6a", "#f9ee98", "#7587a6", "#9b859d", "#afc4db", "#a7a7a7"]
+brights = ["#5f5a60", "#cda869", "#323537", "#464b50", "#838184", "#c3c3c3", "#9b703f", "#ffffff"]
+

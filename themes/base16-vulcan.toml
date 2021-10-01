@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# vulcan scheme by Andrey Varfolomeev
+
+[colors]
+foreground = "#5b778c"
+background = "#041523"
+
+cursor_bg = "#5b778c"
+cursor_border = "#5b778c"
+cursor_fg = "#041523"
+
+# selection_bg = "#041523"
+# selection_fg = "#041523"
+
+ansi = ["#041523", "#818591", "#977d7c", "#adb4b9", "#977d7c", "#9198a3", "#977d7c", "#5b778c"]
+brights = ["#7a5759", "#9198a3", "#122339", "#003552", "#6b6977", "#333238", "#977d7c", "#214d68"]
+

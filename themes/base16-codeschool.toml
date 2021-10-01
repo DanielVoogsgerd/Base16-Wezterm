@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Codeschool scheme by blockloop
+
+[colors]
+foreground = "#9ea7a6"
+background = "#232c31"
+
+cursor_bg = "#9ea7a6"
+cursor_border = "#9ea7a6"
+cursor_fg = "#232c31"
+
+# selection_bg = "#232c31"
+# selection_fg = "#232c31"
+
+ansi = ["#232c31", "#2a5491", "#237986", "#a03b1e", "#484d79", "#c59820", "#b02f30", "#9ea7a6"]
+brights = ["#3f4944", "#43820d", "#1c3657", "#2a343a", "#84898c", "#a7cfa3", "#c98344", "#b5d8f6"]
+

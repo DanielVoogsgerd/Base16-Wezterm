@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Mocha scheme by Chris Kempson (http://chriskempson.com)
+
+[colors]
+foreground = "#d0c8c6"
+background = "#3B3228"
+
+cursor_bg = "#d0c8c6"
+cursor_border = "#d0c8c6"
+cursor_fg = "#3B3228"
+
+# selection_bg = "#3B3228"
+# selection_fg = "#3B3228"
+
+ansi = ["#3B3228", "#cb6077", "#beb55b", "#f4bc87", "#8ab3b5", "#a89bb9", "#7bbda4", "#d0c8c6"]
+brights = ["#7e705a", "#d28b71", "#534636", "#645240", "#b8afad", "#e9e1dd", "#bb9584", "#f5eeeb"]
+

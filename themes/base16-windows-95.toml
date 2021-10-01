@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Windows 95 scheme by Fergus Collins (https://github.com/C-Fergus)
+
+[colors]
+foreground = "#a8a8a8"
+background = "#000000"
+
+cursor_bg = "#a8a8a8"
+cursor_border = "#a8a8a8"
+cursor_fg = "#000000"
+
+# selection_bg = "#000000"
+# selection_fg = "#000000"
+
+ansi = ["#000000", "#fc5454", "#54fc54", "#fcfc54", "#5454fc", "#fc54fc", "#54fcfc", "#a8a8a8"]
+brights = ["#545454", "#a85400", "#1C1C1C", "#383838", "#7e7e7e", "#d2d2d2", "#00a800", "#fcfcfc"]
+

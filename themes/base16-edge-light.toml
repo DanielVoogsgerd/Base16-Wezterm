@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Edge Light scheme by cjayross (https://github.com/cjayross)
+
+[colors]
+foreground = "#5e646f"
+background = "#fafafa"
+
+cursor_bg = "#5e646f"
+cursor_border = "#5e646f"
+cursor_fg = "#fafafa"
+
+# selection_bg = "#fafafa"
+# selection_fg = "#fafafa"
+
+ansi = ["#fafafa", "#db7070", "#7c9f4b", "#d69822", "#6587bf", "#b870ce", "#509c93", "#5e646f"]
+brights = ["#5e646f", "#db7070", "#7c9f4b", "#d69822", "#6587bf", "#b870ce", "#509c93", "#5e646f"]
+

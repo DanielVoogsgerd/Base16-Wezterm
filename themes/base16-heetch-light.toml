@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Heetch Light scheme by Geoffrey Teale (tealeg@gmail.com)
+
+[colors]
+foreground = "#5a496e"
+background = "#feffff"
+
+cursor_bg = "#5a496e"
+cursor_border = "#5a496e"
+cursor_fg = "#feffff"
+
+# selection_bg = "#feffff"
+# selection_fg = "#feffff"
+
+ansi = ["#feffff", "#27d9d5", "#f80059", "#5ba2b6", "#47f9f5", "#bd0152", "#c33678", "#5a496e"]
+brights = ["#9c92a8", "#bdb6c5", "#392551", "#7b6d8b", "#ddd6e5", "#470546", "#dedae2", "#190134"]
+

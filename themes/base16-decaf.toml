@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Decaf scheme by Alex Mirrington (https://github.com/alexmirrington)
+
+[colors]
+foreground = "#cccccc"
+background = "#2d2d2d"
+
+cursor_bg = "#cccccc"
+cursor_border = "#cccccc"
+cursor_fg = "#2d2d2d"
+
+# selection_bg = "#2d2d2d"
+# selection_fg = "#2d2d2d"
+
+ansi = ["#2d2d2d", "#ff7f7b", "#beda78", "#ffd67c", "#90bee1", "#efb3f7", "#bed6ff", "#cccccc"]
+brights = ["#777777", "#ffbf70", "#393939", "#515151", "#b4b7b4", "#e0e0e0", "#ff93b3", "#ffffff"]
+

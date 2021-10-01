@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Apprentice scheme by romainl
+
+[colors]
+foreground = "#BCBCBC"
+background = "#262626"
+
+cursor_bg = "#BCBCBC"
+cursor_border = "#BCBCBC"
+cursor_fg = "#262626"
+
+# selection_bg = "#262626"
+# selection_fg = "#262626"
+
+ansi = ["#262626", "#5F8787", "#87AF87", "#5F8787", "#FFFFAF", "#87AFD7", "#5F875F", "#BCBCBC"]
+brights = ["#6C6C6C", "#FF8700", "#303030", "#333333", "#787878", "#C9C9C9", "#5F87AF", "#FFFFFF"]
+

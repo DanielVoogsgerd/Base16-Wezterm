@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Material Lighter scheme by Nate Peterson
+
+[colors]
+foreground = "#80CBC4"
+background = "#FAFAFA"
+
+cursor_bg = "#80CBC4"
+cursor_border = "#80CBC4"
+cursor_fg = "#FAFAFA"
+
+# selection_bg = "#FAFAFA"
+# selection_fg = "#FAFAFA"
+
+ansi = ["#FAFAFA", "#FF5370", "#91B859", "#FFB62C", "#6182B8", "#7C4DFF", "#39ADB5", "#80CBC4"]
+brights = ["#CCD7DA", "#F76D47", "#E7EAEC", "#CCEAE7", "#8796B0", "#80CBC4", "#E53935", "#FFFFFF"]
+

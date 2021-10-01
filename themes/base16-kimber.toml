@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Kimber scheme by Mishka Nguyen (https://github.com/akhsiM)
+
+[colors]
+foreground = "#DEDEE7"
+background = "#222222"
+
+cursor_bg = "#DEDEE7"
+cursor_border = "#DEDEE7"
+cursor_fg = "#222222"
+
+# selection_bg = "#222222"
+# selection_fg = "#222222"
+
+ansi = ["#222222", "#C88C8C", "#99C899", "#D8B56D", "#537C9C", "#86CACD", "#78B4B4", "#DEDEE7"]
+brights = ["#644646", "#476C88", "#313131", "#555D55", "#5A5A5A", "#C3C3B4", "#704F4F", "#FFFFE6"]
+

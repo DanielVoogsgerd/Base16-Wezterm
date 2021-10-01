@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Atelier Heath scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+foreground = "#ab9bab"
+background = "#1b181b"
+
+cursor_bg = "#ab9bab"
+cursor_border = "#ab9bab"
+cursor_fg = "#1b181b"
+
+# selection_bg = "#1b181b"
+# selection_fg = "#1b181b"
+
+ansi = ["#1b181b", "#ca402b", "#918b3b", "#bb8a35", "#516aec", "#7b59c0", "#159393", "#ab9bab"]
+brights = ["#776977", "#a65926", "#292329", "#695d69", "#9e8f9e", "#d8cad8", "#cc33cc", "#f7f3f7"]
+

@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Harmonic16 Light scheme by Jannik Siebert (https://github.com/janniks)
+
+[colors]
+foreground = "#405c79"
+background = "#f7f9fb"
+
+cursor_bg = "#405c79"
+cursor_border = "#405c79"
+cursor_fg = "#f7f9fb"
+
+# selection_bg = "#f7f9fb"
+# selection_fg = "#f7f9fb"
+
+ansi = ["#f7f9fb", "#bf8b56", "#56bf8b", "#8bbf56", "#8b56bf", "#bf568b", "#568bbf", "#405c79"]
+brights = ["#aabcce", "#bfbf56", "#e5ebf1", "#cbd6e2", "#627e99", "#223b54", "#bf5656", "#0b1c2c"]
+

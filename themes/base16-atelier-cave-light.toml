@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Atelier Cave Light scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+foreground = "#585260"
+background = "#efecf4"
+
+cursor_bg = "#585260"
+cursor_border = "#585260"
+cursor_fg = "#efecf4"
+
+# selection_bg = "#efecf4"
+# selection_fg = "#efecf4"
+
+ansi = ["#efecf4", "#be4678", "#2a9292", "#a06e3b", "#576ddb", "#955ae7", "#398bc6", "#585260"]
+brights = ["#7e7887", "#aa573c", "#e2dfe7", "#8b8792", "#655f6d", "#26232a", "#bf40bf", "#19171c"]
+

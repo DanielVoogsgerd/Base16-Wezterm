@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# PaperColor Dark scheme by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+[colors]
+foreground = "#808080"
+background = "#1c1c1c"
+
+cursor_bg = "#808080"
+cursor_border = "#808080"
+cursor_fg = "#1c1c1c"
+
+# selection_bg = "#1c1c1c"
+# selection_fg = "#1c1c1c"
+
+ansi = ["#1c1c1c", "#585858", "#af87d7", "#afd700", "#ff5faf", "#00afaf", "#ffaf00", "#808080"]
+brights = ["#d7af5f", "#5faf5f", "#af005f", "#5faf00", "#5fafd7", "#d7875f", "#5f8787", "#d0d0d0"]
+

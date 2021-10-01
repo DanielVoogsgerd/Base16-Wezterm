@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Windows 10 scheme by Fergus Collins (https://github.com/C-Fergus)
+
+[colors]
+foreground = "#cccccc"
+background = "#0c0c0c"
+
+cursor_bg = "#cccccc"
+cursor_border = "#cccccc"
+cursor_fg = "#0c0c0c"
+
+# selection_bg = "#0c0c0c"
+# selection_fg = "#0c0c0c"
+
+ansi = ["#0c0c0c", "#e74856", "#16c60c", "#f9f1a5", "#3b78ff", "#b4009e", "#61d6d6", "#cccccc"]
+brights = ["#767676", "#c19c00", "#2f2f2f", "#535353", "#b9b9b9", "#dfdfdf", "#13a10e", "#f2f2f2"]
+

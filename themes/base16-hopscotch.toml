@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Hopscotch scheme by Jan T. Sott
+
+[colors]
+foreground = "#b9b5b8"
+background = "#322931"
+
+cursor_bg = "#b9b5b8"
+cursor_border = "#b9b5b8"
+cursor_fg = "#322931"
+
+# selection_bg = "#322931"
+# selection_fg = "#322931"
+
+ansi = ["#322931", "#dd464c", "#8fc13e", "#fdcc59", "#1290bf", "#c85e7c", "#149b93", "#b9b5b8"]
+brights = ["#797379", "#fd8b19", "#433b42", "#5c545b", "#989498", "#d5d3d5", "#b33508", "#ffffff"]
+

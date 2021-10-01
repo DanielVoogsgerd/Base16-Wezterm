@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Shapeshifter scheme by Tyler Benziger (http://tybenz.com)
+
+[colors]
+foreground = "#102015"
+background = "#f9f9f9"
+
+cursor_bg = "#102015"
+cursor_border = "#102015"
+cursor_fg = "#f9f9f9"
+
+# selection_bg = "#f9f9f9"
+# selection_fg = "#f9f9f9"
+
+ansi = ["#f9f9f9", "#e92f2f", "#0ed839", "#dddd13", "#3b48e3", "#f996e2", "#23edda", "#102015"]
+brights = ["#555555", "#e09448", "#e0e0e0", "#ababab", "#343434", "#040404", "#69542d", "#000000"]
+

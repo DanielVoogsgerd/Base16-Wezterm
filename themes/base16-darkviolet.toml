@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Dark Violet scheme by ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+[colors]
+foreground = "#b08ae6"
+background = "#000000"
+
+cursor_bg = "#b08ae6"
+cursor_border = "#b08ae6"
+cursor_fg = "#000000"
+
+# selection_bg = "#000000"
+# selection_fg = "#000000"
+
+ansi = ["#000000", "#a82ee6", "#4595e6", "#f29df2", "#4136d9", "#7e5ce6", "#40dfff", "#b08ae6"]
+brights = ["#593380", "#bb66cc", "#231a40", "#432d59", "#00ff00", "#9045e6", "#a886bf", "#a366ff"]
+

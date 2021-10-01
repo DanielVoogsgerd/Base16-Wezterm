@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Gruvbox light, medium scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[colors]
+foreground = "#504945"
+background = "#fbf1c7"
+
+cursor_bg = "#504945"
+cursor_border = "#504945"
+cursor_fg = "#fbf1c7"
+
+# selection_bg = "#fbf1c7"
+# selection_fg = "#fbf1c7"
+
+ansi = ["#fbf1c7", "#9d0006", "#79740e", "#b57614", "#076678", "#8f3f71", "#427b58", "#504945"]
+brights = ["#bdae93", "#af3a03", "#ebdbb2", "#d5c4a1", "#665c54", "#3c3836", "#d65d0e", "#282828"]
+

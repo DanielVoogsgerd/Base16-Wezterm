@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Embers scheme by Jannik Siebert (https://github.com/janniks)
+
+[colors]
+foreground = "#A39A90"
+background = "#16130F"
+
+cursor_bg = "#A39A90"
+cursor_border = "#A39A90"
+cursor_fg = "#16130F"
+
+# selection_bg = "#16130F"
+# selection_fg = "#16130F"
+
+ansi = ["#16130F", "#826D57", "#57826D", "#6D8257", "#6D5782", "#82576D", "#576D82", "#A39A90"]
+brights = ["#5A5047", "#828257", "#2C2620", "#433B32", "#8A8075", "#BEB6AE", "#825757", "#DBD6D1"]
+

@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Eighties scheme by Chris Kempson (http://chriskempson.com)
+
+[colors]
+foreground = "#d3d0c8"
+background = "#2d2d2d"
+
+cursor_bg = "#d3d0c8"
+cursor_border = "#d3d0c8"
+cursor_fg = "#2d2d2d"
+
+# selection_bg = "#2d2d2d"
+# selection_fg = "#2d2d2d"
+
+ansi = ["#2d2d2d", "#f2777a", "#99cc99", "#ffcc66", "#6699cc", "#cc99cc", "#66cccc", "#d3d0c8"]
+brights = ["#747369", "#f99157", "#393939", "#515151", "#a09f93", "#e8e6df", "#d27b53", "#f2f0ec"]
+

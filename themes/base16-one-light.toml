@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# One Light scheme by Daniel Pfeifer (http://github.com/purpleKarrot)
+
+[colors]
+foreground = "#383a42"
+background = "#fafafa"
+
+cursor_bg = "#383a42"
+cursor_border = "#383a42"
+cursor_fg = "#fafafa"
+
+# selection_bg = "#fafafa"
+# selection_fg = "#fafafa"
+
+ansi = ["#fafafa", "#ca1243", "#50a14f", "#c18401", "#4078f2", "#a626a4", "#0184bc", "#383a42"]
+brights = ["#a0a1a7", "#d75f00", "#f0f0f1", "#e5e5e6", "#696c77", "#202227", "#986801", "#090a0b"]
+

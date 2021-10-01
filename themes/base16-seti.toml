@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Seti UI scheme by 
+
+[colors]
+foreground = "#d6d6d6"
+background = "#151718"
+
+cursor_bg = "#d6d6d6"
+cursor_border = "#d6d6d6"
+cursor_fg = "#151718"
+
+# selection_bg = "#151718"
+# selection_fg = "#151718"
+
+ansi = ["#151718", "#Cd3f45", "#9fca56", "#e6cd69", "#55b5db", "#a074c4", "#55dbbe", "#d6d6d6"]
+brights = ["#41535B", "#db7b55", "#282a2b", "#3B758C", "#43a5d5", "#eeeeee", "#8a553f", "#ffffff"]
+

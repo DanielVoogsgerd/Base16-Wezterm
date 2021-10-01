@@ -1,0 +1,18 @@
+# base16-wezterm (https://github.com/DanielVoogsgerd/base16-wezterm)
+# Base16 wezterm template by Daniel Voogsgerd
+# Atelier Seaside scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+foreground = "#8ca68c"
+background = "#131513"
+
+cursor_bg = "#8ca68c"
+cursor_border = "#8ca68c"
+cursor_fg = "#131513"
+
+# selection_bg = "#131513"
+# selection_fg = "#131513"
+
+ansi = ["#131513", "#e6193c", "#29a329", "#98981b", "#3d62f5", "#ad2bee", "#1999b3", "#8ca68c"]
+brights = ["#687d68", "#87711d", "#242924", "#5e6e5e", "#809980", "#cfe8cf", "#e619c3", "#f4fbf4"]
+
