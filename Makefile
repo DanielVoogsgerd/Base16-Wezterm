@@ -19,3 +19,6 @@ build:
 	rm -rf ${THEME_DIR}
 	mv -f ${OUTPUT}/${TEMPLATE}/themes/ ${THEME_DIR}/
 	rm -rf ${OUTPUT} ${TEMPLATE_DIR}/*/
+
+clean:
+	rm -rf sources schemes
